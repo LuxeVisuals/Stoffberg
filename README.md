@@ -1,6 +1,8 @@
 # Hoërskool Stoffberg — Website Redesign
 
-Static, GitHub-ready redesign with:
+Static, GitHub-ready redesign with a yellowish-gold and deep-green Stoffberg-inspired visual identity.
+
+Features:
 - Responsive mobile/desktop layout
 - Animated scroll reveals
 - Mobile navigation
